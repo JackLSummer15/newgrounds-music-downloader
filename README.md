@@ -1,2 +1,2 @@
 # newgrounds-music-downloader
-Download songs from newgrounds using the python script
+Download songs from newgrounds.
