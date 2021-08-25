@@ -2,6 +2,12 @@ import os
 
 print('NEWGROUNDS MUSIC DOWNLOADER BY: JACKLSUMMER15')
 
+try:
+  os.mkdir('music')
+  
+except:
+  pass
+
 #get song here
 songid=input('Enter song ID: ')
 
